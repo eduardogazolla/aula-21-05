@@ -1,0 +1,30 @@
+/* style.css */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2 {
+  text-align: center;
+  color: #333;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 48px;
+  font-weight: bold;
+  margin-top: 0;
+}
+
+#relogio {
+  font-size: 64px;
+  font-weight: bold;
+  margin-top: 20px;
+}
